@@ -1,7 +1,7 @@
 # seafile-cross-compile
 seafile客户端交叉编译到windows运行
 
-参考网站，很感谢该网站的作者！！
+<br> 参考网站，很感谢该网站的作者！！\<br> 
 http://www.ilovecpp.com/2018/06/25/seafile-compile/
 其实按照作者的去做，正常来说是可以成功编译的。再修改运行copy_dependent_dll.sh脚本，不出意外就可以在windows下运行了。
 

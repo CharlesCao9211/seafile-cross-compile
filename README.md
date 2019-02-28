@@ -1,4 +1,4 @@
-# seafile客户端交叉编译到windows运行
+# seafile客户端交叉编译到windows运行，fedora28
 
  参考网站，很感谢该网站的作者！!   
 http://www.ilovecpp.com/2018/06/25/seafile-compile/  
